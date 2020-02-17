@@ -1,5 +1,9 @@
 React Tic Tac Toe
 
+### `npm install`
+
+Will install all modules listed as dependencies in package
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
